@@ -1,4 +1,4 @@
-#Author: ninavassegato@gmail.com
+#Author: viniciusgibertoni2405@gmail.com
 #Keywords Summary :
 #Feature: List of scenarios.
 #Scenario: Business rule through list of steps with arguments.
